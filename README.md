@@ -31,7 +31,7 @@ This app was made with:
 ## Installation
 
 No installation needed. Open the link of the deployed App:
-- [WEATHER DASHBOARD](https://openweathermap.org/)
+- [WEATHER DASHBOARD](https://aletsmc07.github.io/Weather-Dashboard/)
 
 ## Screenshots
 
