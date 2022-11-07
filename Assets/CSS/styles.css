@@ -1,0 +1,49 @@
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+ul {
+    list-style: none;
+
+}
+/* styles for Li */
+li {
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.header {
+    width: 100%;
+}
+
+.inputCard {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.fiveDayColor {
+    padding: 10px;
+    background-color: #1e8fffe9;
+    color: white;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+}
