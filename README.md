@@ -35,6 +35,18 @@ No installation needed. Open the link of the deployed App:
 
 ## Screenshots
 
+First screen
+![image](https://user-images.githubusercontent.com/107447818/200211400-d2d6933f-247f-4757-ab9f-b4f26a3d0474.png)
+
+Write to search the city of your choice
+![image](https://user-images.githubusercontent.com/107447818/200211536-be002962-229e-40cf-9443-5a683ac89de9.png)
+
+Click on the button to see the results, you can see the weather in that moment
+![image](https://user-images.githubusercontent.com/107447818/200211624-28408ee2-f97e-4eea-a8db-dd3e6120e218.png)
+
+Also you can see the weather of the next 5 days
+![image](https://user-images.githubusercontent.com/107447818/200211730-40f4882a-b8e5-4661-830d-2178ca01b722.png)
+
 
 ## License
 
